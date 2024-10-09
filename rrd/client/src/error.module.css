@@ -1,0 +1,31 @@
+.error_body {
+    background-color: #1E1E1E;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .error_h1 {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+  }
+  .error_p {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  .error_a {
+    color: #00C4FF;
+    text-decoration: none;
+    font-size: 1.5rem;
+    transition: color 0.3s ease-in-out;
+  }
+  .error_a:hover {
+    color: #fff;
+  }

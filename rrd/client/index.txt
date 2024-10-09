@@ -1,0 +1,5 @@
+we simulate React-router-dom API;
+we mock history API for test Link component when we clicked
+we mock Hooks useLocation , useNavigate , useParams
+navbar when we clicked
+npm i @types/jest - for suggesties
